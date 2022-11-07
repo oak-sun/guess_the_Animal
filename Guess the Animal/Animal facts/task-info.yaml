@@ -378,5 +378,8 @@ files:
     - - "I do not what to say..."
   learner_created: false
 feedback_link: https://hyperskill.org/projects/132/stages/704/implement#comment
-status: Unchecked
+status: Solved
+feedback:
+  message: Congratulations!
+  time: "Mon, 07 Nov 2022 19:24:48 UTC"
 record: -1
